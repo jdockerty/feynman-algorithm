@@ -1,6 +1,6 @@
 # Feynman Algorithm
 
-Allegedly coined in jest by Murray Gell-Mann to describe Richard Feynman's incredible problem solving ability, this simple algorithm can be used to solve absolutely anything!
+Allegedly coined in jest by [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) to describe [Richard Feynman's](https://en.wikipedia.org/wiki/Richard_Feynman) incredible problem solving ability, this simple algorithm can be used to solve absolutely anything!
 
 It is very easy to remember, containing only three steps:
 
